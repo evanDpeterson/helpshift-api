@@ -1,4 +1,6 @@
 # Helpshift API
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FevanDpeterson%2Fhelpshift-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FevanDpeterson%2Fhelpshift-api?ref=badge_shield)
+
 
 This project provide the sample code for using [Helpshift API](https://apidocs.helpshift.com). Sample code are provided in [Java](samples/java/README.md),
 [Python](samples/python/README.md), [Clojure](samples/clojure/api-sample-code/README.md) and [Rust](samples/rust_api_example/README.md).
@@ -49,6 +51,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FevanDpeterson%2Fhelpshift-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FevanDpeterson%2Fhelpshift-api?ref=badge_large)
 
 ## Third Party
 ### Third Party Libraries
